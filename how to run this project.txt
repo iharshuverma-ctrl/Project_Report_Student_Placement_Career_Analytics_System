@@ -1,0 +1,6 @@
+open folder in vs code:-
+
+user :- admin
+password :- admin123
+
+terminal:-python app.py
